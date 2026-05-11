@@ -129,9 +129,26 @@ Built as a data analytics portfolio project to demonstrate proficiency in:
 - UX thinking for business intelligence tools
 
 ---
+## 👤 Author
 
-## 📬 Connect
+**Shobhith S Kounder**
+Aspiring Data Analyst · SQL · Excel · Power BI
+📍 Sringeri, Karnataka — Open to relocation anywhere in India
 
-Feel free to connect on [LinkedIn](#) | [datascienceportfolio.io](#) | [GitHub](#)
+<p>
+  <a href="https://www.linkedin.com/in/shobhith-kounder-768859264">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shobhith01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-> ⭐ If you found this useful, consider starring the repo!
+---
+
+<p align="center">
+  <i>This project is part of a 14-day data analyst portfolio challenge —
+  building job-ready projects in SQL, Excel and Power BI to land
+  a data analyst role in Bengaluru.</i>
+</p>
+
